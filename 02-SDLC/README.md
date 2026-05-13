@@ -35,7 +35,6 @@ DevOps Engineers mainly work on automating and improving the following phases:
 - Testing
 - Deployment
 - Monitoring
-- Infrastructure Management
 
 DevOps helps development and operations teams collaborate efficiently through automation and continuous delivery practices.
 
@@ -78,8 +77,11 @@ Key concepts in Scrum:
 # Resources
 
 - DATE DevOps Playlist by Abhishekh Veermalla(free on youtube)
--[SDLC Explained] https://www.geeksforgeeks.org/software-engineering/software-development-life-cycle-sdlc/
--[Agile vs Scrum]https://www.geeksforgeeks.org/software-engineering/agile-vs-scrum-difference-between-agile-and-scrum-in-software-development/
+  
+- [SDLC Explained] https://www.geeksforgeeks.org/software-engineering/software-development-life-cycle-sdlc/
+
+- [Agile vs Scrum] https://www.geeksforgeeks.org/software-engineering/agile-vs-scrum-difference-between-agile-and-scrum-in-software-development/
+
 ---
 
 # Conclusion
