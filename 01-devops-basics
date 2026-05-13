@@ -1,1 +1,69 @@
+#I learned following today: 
 
+-What is DevOps?
+-Why we need devops?
+-Pillars of DevOps.
+-How to introduce yourself?
+
+
+#What is DevOps?
+
+DevOps is not just about CI/CD.
+
+DevOps is a culture and set of practices focused on faster software delivery through:
+Automation, 
+Continous Monitoring, 
+Continous Testing 
+High Quality product 
+
+---
+
+# Why do we need DevOps Engineers?
+
+Before DevOps, software delivery involved multiple separate teams such as:
+
+- Developers
+- QA / Testing Teams
+- Build & Release Engineers
+- System Administrators
+- Server Administrators
+
+This often slowed down deployment and communication.
+
+DevOps improves collaboration between development and operations teams to increase:
+- efficiency
+- automation
+- deployment speed
+- reliability
+
+---
+
+#Intoduction:
+
+Hi, I’m Kreeti Yadav, a final-year B.Sc. IT student from Mumbai University.
+I am currently starting my DevOps learning journey and building hands-on skills in cloud and automation technologies.
+
+## Current Skills & Technologies
+
+- RHCSA Certified
+- Familiar with Docker
+- Familiar with AWS
+- Learning GitHub Actions for CI/CD
+- Planning to learn:
+  - Ansible
+  - Terraform
+  - Kubernetes
+
+---
+
+#Key Takeaway:
+Four Pillars of Devops:
+->Automation, 
+->High Quality,
+->Continous Monitoring,
+->Continous Testing.
+  
+-----
+# Conclusion
+
+Today I learned the fundamentals of DevOps, its importance in modern software delivery, and how DevOps improves collaboration and automation across teams.
