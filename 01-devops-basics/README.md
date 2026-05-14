@@ -1,81 +1,63 @@
-# Daily-Devops
-A repository documenting my daily DevOps learning journey, hands-on labs, commands, scripts, and troubleshooting notes.
+# Day 01 - DevOps Basics
 
+## Topics Covered
 
-# About Me
-
-Hi, I'm Kreeti Yadav, a final-year B.Sc. IT student from Mumbai University passionate about DevOps, Cloud.
-
-Currently learning and practicing:
-- Linux
-- AWS
-- Docker
-- Kubernetes
-- CI/CD
-- Terraform
-- GitHub Actions
+- What is DevOps?
+- Why do we need DevOps?
+- Four Pillars of DevOps
 
 ---
 
-# Goals
+## What is DevOps?
 
-- Build strong DevOps fundamentals
-- Practice hands-on daily
-- Document learning consistently
-- Build real-world cloud projects
-- Prepare for AWS SAA and CKA certifications
+DevOps is a culture and set of practices that helps development and operations teams collaborate efficiently to deliver software faster and more reliably.
 
----
-
-# Repository Structure
-
-```text
-daily-devops/
-│
-├── 01-devops-basics/
-├── 02-sdlc/
-├── 03-linux-basics/
-├── screenshots/
-├── scripts/
-└── README.md
-```
+It focuses on:
+- Automation
+- Continuous Monitoring
+- Continuous Testing
+- High Quality
 
 ---
 
-# Daily Progress
+## Why Do We Need DevOps?
 
-| Day | Topic | Status |
-|------|--------|--------|
-| 01 | DevOps Basics | Completed |
-| 02 | SDLC | In Progress|
-| 03 | Linux Basics | In Progress |
+Before DevOps, multiple separate teams handled development, testing, deployment, and server management.
 
----
+This often caused:
+- slow deployments
+- communication gaps
+- manual work
+- delayed releases
 
-# Technologies & Tools
-
-- Linux
-- AWS
-- Docker
-- Kubernetes
-- Git & GitHub
-- Bash Scripting
-- GitHub Actions
-- Terraform
+DevOps improves collaboration and automation across teams.
 
 ---
 
-# What This Repository Contains
+## Four Pillars of DevOps
 
-- Daily learning logs
-- Hands-on labs
-- Commands and notes
-- Scripts and YAML files
-- Troubleshooting documentation
-- Screenshots and architecture diagrams
+- Automation
+- High Quality
+- Continuous Monitoring
+- Continuous Testing
 
 ---
 
-# Connect With Me
+## Key Takeaways
 
-- LinkedIn: https://www.linkedin.com/in/kreeti-yadav-72174b2b1/
+- DevOps is more than just CI/CD.
+- Automation reduces manual effort.
+- Collaboration improves deployment efficiency.
+
+---
+
+## Resources
+
+- DATE DevOps Playlist by Abhishek Veeramalla (Youtube)
+  
+
+---
+
+## Conclusion
+
+Today I learned the fundamentals of DevOps and how it improves modern software delivery through collaboration and automation.
