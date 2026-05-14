@@ -75,18 +75,6 @@ It allows multiple operating systems to share the same physical hardware.
 
 ---
 
-## Creating a Virtual Machine
-
-Basic steps to create a VM:
-
-1. Install virtualization software
-2. Download an operating system ISO
-3. Allocate CPU, RAM, and storage
-4. Create the VM
-5. Install the operating system
-
----
-
 # Key Takeaways
 
 - Virtualization allows efficient hardware utilization.
