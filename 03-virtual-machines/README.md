@@ -96,9 +96,13 @@ Basic steps to create a VM:
 
 ---
 # Resources
+
 [Virtualization] https://www.ibm.com/think/topics/virtualization
+
 [Hypervisor] https://www.vmware.com/topics/hypervisor
+
 ---
+
 # Conclusion
 
 Today I learned the fundamentals of virtualization, virtual machines, hypervisors, and how virtual environments improve scalability and resource utilization in modern infrastructure.
