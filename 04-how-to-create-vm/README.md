@@ -89,7 +89,7 @@ Popular Infrastructure as Code tool used for cloud automation across multiple cl
 
 ### Screenshots
 
-![AWS CLI EC2 Creation](../screenshots/aws--ec2.png)
+![AWS CLI EC2 Creation](../screenshots/aws-ec2-ss.png)
 
 ---
 
