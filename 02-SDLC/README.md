@@ -76,7 +76,7 @@ Key concepts in Scrum:
 
 # Resources
 
-- DATE DevOps Playlist by Abhishekh Veermalla(free on youtube)
+- DATE DevOps Playlist by Abhishekh Veeramalla(free on youtube)
   
 - [SDLC Explained] https://www.geeksforgeeks.org/software-engineering/software-development-life-cycle-sdlc/
 
