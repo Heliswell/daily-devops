@@ -5,7 +5,6 @@
 - What does the EC2 instance creation process look like?
 - How is scripting/automation used in AWS?
 - Different ways to automate EC2 instance creation
-- Practical EC2 instance creation using AWS 
 
 ---
 
@@ -80,16 +79,6 @@ AWS services can be controlled programmatically through API requests.
 ### Terraform
 Popular Infrastructure as Code tool used for cloud automation across multiple cloud providers.
 
----
-
-## Practical EC2 Instance Creation Using AWS Console 
-
-
-
-
-### Screenshots
-
-![AWS CLI EC2 Creation](../screenshots/aws-ec2-ss.png)
 
 ---
 
@@ -104,10 +93,9 @@ Popular Infrastructure as Code tool used for cloud automation across multiple cl
 
 # Resources
 
-- AWS EC2 Documentation
-- AWS CLI Documentation
-- Terraform Documentation
-- DATE DevOps Playlist
+[AWS EC2 Documentation] https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html
+
+DATE DevOps Playlist
 
 ---
 
